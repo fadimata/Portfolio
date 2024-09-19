@@ -1,0 +1,530 @@
+/* .usages{
+    margin-top:10% ;
+    display: flex;
+    justify-content: space-around;
+} */
+
+.liste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: #FF6B00;
+
+}
+.hh1{
+    font-size:50px;
+    color: #172B4D;
+}
+.hh2{
+    font-size:60px;
+   color: #FF6B00;
+}
+
+.navbar {
+    margin-top: 20px;
+}
+.mail{
+    font-size: 25px;
+     width: 100%;
+      color: rgb(125, 125, 120);
+}
+.liste li {
+    background-color: white;
+    border-radius: 5px;
+    height: 2rem;
+    margin: 5px;
+}
+.card2-1{
+    background-color: #EBEFF4;
+}
+.ruby {
+    background-color: #EBEFF4;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: #FF6B00;
+}
+#flesh{
+    border-radius: 50%;
+  margin: auto;
+ 
+}
+.css {
+    background-color: #EBEFF4;
+    width: 3rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FF6B00;
+}
+
+.btndown {
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: #FF6B00;
+    border: 2px solid #000;
+    height: 70px;
+    width: 300px;
+    color: white;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.java {
+    background-color: #EBEFF4;
+    width: 3rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FF6B00;
+}
+
+.html {
+    background-color: #EBEFF4;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FF6B00;
+}
+
+.ruby2 {
+    background-color: white;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.css2 {
+    background-color: white;
+    width: 3rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.java2 {
+    background-color: white;
+    width: 3rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titre{
+   font-size: 30px;
+    color: #172B4D;
+}
+.html2 {
+    background-color: white;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1 {
+    margin-top: 10%;
+    background-color: #36B37E;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn1:hover {
+    background-color: #C5E9DA;
+}
+
+.btn1:focus {
+    background-color: #28855D;
+}
+
+.btndown:hover {
+    background-color: #FE984E;
+}
+
+.btndown:focus {
+    background-color: #E35F00;
+}
+
+.get:hover {
+    background-color: #FE984E;
+}
+
+.get:focus {
+    background-color: #E35F00;
+}
+
+.h1 {
+    color: #172B4D;
+    font-size: 40px;
+    text-align: center;
+}
+
+.parag {
+    font-size: 25px;
+    color:#172B4D;
+}
+
+.ico:hover path {
+    fill: #E35F00;
+}
+
+.welcom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#img7 {
+    height: 89vh;
+    margin-left: 12%;
+ 
+
+}
+
+#icons {
+    width: 10px;
+    height: 20px;
+}
+
+.js {
+    background-color: white;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rubyon {
+    background-color: white;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rspec {
+    background-color: white;
+    width: 9rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.capy {
+    background-color: white;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data {
+    background-color: white;
+    width: 15rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#card{
+   margin: auto !important;
+}
+.control {
+    background-color: white;
+    width: 9rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card2{
+    background: var(--bg)!important;
+}
+.cli {
+    background-color: white;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.web {
+    background-color: white;
+    width: 9rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apidisign {
+    background-color: white;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#test {
+    display: none;
+
+}
+
+.img {
+    width: 25rem;
+    height: 20rem;
+}
+
+.lign {
+    background-color: #172B4D;
+    width: 10rem;
+    height: 12px;
+    border-radius: 10px;
+    margin: auto;
+    display: none;
+
+
+}
+
+@media screen and (max-width: 1024px) {
+    .card {
+        width: 18rem;
+
+    }
+
+    .img {
+        width: 18rem;
+        height: 20rem;
+    }
+
+    #LastName {
+        display: none;
+    }
+    .hh1{
+        font-size:40px;
+        color: #172B4D;
+    }
+    .hh2{
+        font-size:50px;
+       color: #FF6B00;
+    }
+    .parag {
+        font-size: 25px;
+        
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #img7 {
+        height: 80vh !important;
+
+    }
+    .card {
+        width: 21rem;
+
+    }
+    .img {
+        width: 21rem;
+        
+    }
+   
+    .test-me {
+
+        margin: auto;
+    }
+    
+    .btndown {
+        font-size: 15px;
+        height: 60px;
+        width: 200px;
+        margin-top: 50px;
+        display: none;
+    }
+
+    #card {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+
+
+    }
+
+    #card2 {
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+    #contact-me {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .am-alex {
+        margin-left: 3rem;
+    }
+
+    .section-general {
+        max-width: 375;
+        margin: auto;
+
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    #test {
+        display: flex;
+        justify-content: end;
+    }
+
+    
+    .hh1{
+        font-size:35px;
+        color: #172B4D;
+    }
+    .hh2{
+        font-size:30px;
+       color: #FF6B00;
+    }
+    .parag {
+        font-size: 20px !important;
+    }
+
+    .h1 {
+        font-size: 30px;
+    }
+
+    #hey {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .welcom {
+        position: relative;
+        bottom: 1rem !important;
+    }
+
+    #FirstName {
+        width: 100%;
+
+    }
+
+    #LastName {
+        display: none;
+    }
+
+    .liste {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+        color: #FF6B00;
+
+    }
+
+    .liste li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+        color: #FF6B00;
+
+    }
+
+
+}
+
+
+
+@media screen and (max-width:550px) {
+    #flesh {
+        display: none;
+    }
+
+    .btndown {
+        display: none;
+    }
+
+    .lign {
+        display: flex;
+    }
+
+    #img7 {
+        height: 40vh !important;
+        position: relative;
+        right: 2rem;
+
+
+    }
+  
+    #card {
+        width: 90% !important;
+        padding: 0;
+    }
+
+    #card2 {
+        align-items: center;
+        padding: 0;
+        margin: auto;
+
+    }
+
+    .am-alex {
+        margin-top: 5rem;
+        margin-left: 0;
+    }
+
+    .parag {
+        font-size: 1rem !important;
+    }
+
+    .get {
+        margin-left: 70px;
+
+    }
+}
